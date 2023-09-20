@@ -24,24 +24,27 @@
     - ```switch case```
     - ```for```, ```while```, e ```do-while``` para loops
 
-Lição 5: Funções
+- ### Lição 5: Funções
 
-Criando funções em C++
-Passagem de argumentos para funções
-Retorno de valores de funções
-Funções com ou sem parâmetros
-Lição 6: Vetores e Arrays
+    - Criando funções em C++
+    - Passagem de argumentos para funções
+    - Retorno de valores de funções
+    - Funções com ou sem parâmetros
 
-Declarando e inicializando vetores
-Acesso a elementos de vetores
-Percorrendo vetores com loops
-Tamanho de vetores
-Lição 7: Strings e Manipulação de Texto
+- ### Lição 6: Vetores e Arrays
 
-Trabalhando com strings em C++
-Funções de manipulação de strings
-Concatenação e comparação de strings
-Lição 8: Estruturas de Dados Compostas
+    - Declarando e inicializando vetores
+    - Acesso a elementos de vetores
+    - Percorrendo vetores com loops
+    - Tamanho de vetores
+
+- ### Lição 7: Strings e Manipulação de Texto
+
+    - Trabalhando com ```string``` em C++
+    - Funções de manipulação de ```string```
+    - Concatenação e comparação de ```string```
+
+- ### Lição 8: Estruturas de Dados Compostas
 
 Introdução a structs
 Criando e usando structs
