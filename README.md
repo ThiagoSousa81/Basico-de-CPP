@@ -18,11 +18,12 @@
     - Declaração de variáveis
     - Inicialização de variáveis
 
-Lição 4: Estruturas de Controle de Fluxo
+- ### Lição 4: Estruturas de Controle de Fluxo
 
-if, else if, e else para tomada de decisões
-switch e case para decisões múltiplas
-for, while, e do-while para loops
+    - ```if```, ```else``` e ```elseif```
+    - ```switch case```
+    - ```for```, ```while```, e ```do-while``` para loops
+
 Lição 5: Funções
 
 Criando funções em C++
