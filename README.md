@@ -6,18 +6,17 @@
     - O que é programação?
     - Introdução à linguagem C++
 
-- ### Lição 2: Variáveis e Tipos de Dados em C++
-
-    - Tipos de dados de variávies
-    - Declaração de variáveis
-    - Inicialização de variáveis
-
-- ### Lição 3: Entrada e Saída de Dados
+- ### Lição 2: Entrada e Saída de Dados
 
     - Usando std::cin para entrada de dados
     - Usando std::cout para saída de dados
     - Manipulação de formatação de saída
 
+- ### Lição 3: Variáveis e Tipos de Dados em C++
+
+    - Tipos de dados de variávies
+    - Declaração de variáveis
+    - Inicialização de variáveis
 
 Lição 4: Estruturas de Controle de Fluxo
 
