@@ -10,7 +10,7 @@ Aqui estão os passos básicos para usar std::cout para exibir saída de dados:
 
 **1 - Incluindo a Biblioteca:** Certifique-se de incluir a biblioteca de entrada/saída padrão no início do seu programa, como mencionado anteriormente:
 
-```#include <iostream> ```
+    #include <iostream>
 
 **2 - Exibindo Dados:** Use std::cout para exibir os dados que você deseja mostrar ao usuário. Por exemplo:
 
