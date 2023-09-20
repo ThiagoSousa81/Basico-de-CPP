@@ -8,7 +8,7 @@
     - O que é programação?
     - Introdução à linguagem C++
 
-- ### Lição 2: Entrada e Saída de Dados
+- ### [Lição 2: Entrada e Saída de Dados](https://github.com/ThiagoSousa81/Basico-de-CPP/blob/main/Aula2.md#li%C3%A7%C3%A3o-2)
 
     - Usando ```std::cin``` para entrada de dados
     - Usando ```std::cout``` para saída de dados
