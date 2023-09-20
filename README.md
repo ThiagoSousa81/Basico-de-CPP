@@ -10,8 +10,8 @@
 
 - ### Lição 2: Entrada e Saída de Dados
 
-    - Usando std::cin para entrada de dados
-    - Usando std::cout para saída de dados
+    - Usando ```std::cin``` para entrada de dados
+    - Usando ```std::cout``` para saída de dados
     - Manipulação de formatação de saída
 
 - ### Lição 3: Variáveis e Tipos de Dados em C++
