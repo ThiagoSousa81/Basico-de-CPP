@@ -1,5 +1,7 @@
 ## Utilizando C++ puro para lecionar lógica de programação.
 
+#### Você pode compilar todos os códigos pela plataforma [online-GDB](https://www.onlinegdb.com/)
+
 ### Sumário 
 
 - ### Lição 1: Introdução à Programação e C++
@@ -46,6 +48,8 @@
 
 - ### Lição 8: Estruturas de Dados Compostas
 
+    - Em breve...
+<!--
 Introdução a structs
 Criando e usando structs
 Vetores de structs
@@ -70,3 +74,4 @@ Recursão
 Lição 12: Projeto Final
 
 Desenvolvimento de um pequeno projeto em C++ que aplica os conceitos aprendidos durante o curso
+-->
