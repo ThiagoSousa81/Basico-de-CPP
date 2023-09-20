@@ -1,4 +1,4 @@
-### Entrada e Saída de Dados
+### Lição 2: Entrada e Saída de Dados
 
 ## [Voltar](https://github.com/ThiagoSousa81/Basico-de-CPP#readme)
 
