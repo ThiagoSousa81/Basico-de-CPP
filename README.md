@@ -33,7 +33,7 @@
     - Retorno de valores de funções
     - Funções com ou sem parâmetros
 
-- ### Lição 6: Vetores e Arrays
+- ### [Lição 6: Vetores e Arrays](https://github.com/ThiagoSousa81/Basico-de-CPP/blob/main/Aula6.md)
 
     - Declarando e inicializando vetores
     - Acesso a elementos de vetores
