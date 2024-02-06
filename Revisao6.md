@@ -1,8 +1,6 @@
 ### Revisão 6: Vetores e Arrays
 
-|  |  |
-| --- | --- |
-| [<h2>Voltar</h2>](https://github.com/ThiagoSousa81/Basico-de-CPP#readme) | [<h2>Compilar C++ Online</h2>](https://www.onlinegdb.com/online_c++_compiler) |
+## [Voltar](https://github.com/ThiagoSousa81/Basico-de-CPP#readme) | | [Compilar C++ Online](https://www.onlinegdb.com/online_c++_compiler)
 
 ### Preenchimento e impressão de vetores
 
