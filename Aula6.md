@@ -9,13 +9,13 @@ Nesta lição, exploraremos um aspecto crucial da programação em C++ : vetores
 Em C++, a declaração e inicialização de vetores são tarefas essenciais. Um vetor é uma coleção de elementos do mesmo tipo, e a sintaxe para declarar e inicializar é direta. Por exemplo:
 
     #include <iostream>
-    #include <vector>
+    #include <vector> // classe responsável pela criação de vetores
 
     int main() {
-        // Declarando e inicializando um vetor de inteiros
+        // Declarando e inicializando um vetor de inteiros, chamado numeros
         std::vector<int> numeros = {1, 2, 3, 4, 5};
 
-        // Declarando um vetor vazio de caracteres
+        // Declarando um vetor vazio de caracteres, do tipo char
         std::vector<char> caracteres;
 
         // Adicionando elementos ao vetor de caracteres
@@ -27,9 +27,15 @@ Em C++, a declaração e inicialização de vetores são tarefas essenciais. Um 
         return 0;
     }
 
+> OBS.: Um vetor e um array são praticamente a mesma coisa. Todo vetor armazena sempre o mesmo tipo de dado.
+
 ### Acesso a Elementos de Vetores
 
 Uma vez que você tenha declarado e inicializado um vetor, é crucial entender como acessar seus elementos. A indexação em C++ começa em 0, ou seja, o primeiro elemento está no índice 0, o segundo no índice 1, e assim por diante. Veja um exemplo:
+
+| Posição | 0 | 1 | 2 | 3 | 4 |
+| --- | --- | --- | --- | --- | --- |
+| <code>vector(int) numeros</code> | 10 | 20 | 30 | 40 | 50 |
 
     #include <iostream>
     #include <vector>
