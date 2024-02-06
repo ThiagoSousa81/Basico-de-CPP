@@ -2,7 +2,7 @@
 
 ## [Voltar](https://github.com/ThiagoSousa81/Basico-de-CPP#readme)
 
-Nesta lição, exploraremos um aspecto crucial da programação em C++ - vetores e arrays. Essas estruturas de dados são fundamentais para armazenar e manipular conjuntos de dados de maneira eficiente. Ao compreender como declarar, inicializar, acessar elementos e percorrer vetores, você estará melhor preparado para lidar com problemas mais complexos em suas aplicações.
+Nesta lição, exploraremos um aspecto crucial da programação em C++ : vetores e arrays. Essas estruturas de dados são fundamentais para armazenar e manipular conjuntos de dados de maneira eficiente. Ao compreender como declarar, inicializar, acessar elementos e percorrer vetores, você estará melhor preparado para lidar com problemas mais complexos em suas aplicações.
 
 ### Declarando e Inicializando Vetores
 
