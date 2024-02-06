@@ -63,6 +63,9 @@ Para realizar operações em todos os elementos de um vetor, é comum utilizar l
 
         // Percorrendo o vetor e imprimindo cada elemento
         for (int i = 0; i < numeros.size(); ++i) {
+
+            // O método size(), do vetor inteiro numeros, recebe o tamanho do vetor em inteiro
+
             std::cout << numeros[i] << " ";
         }
 
@@ -81,9 +84,13 @@ Determinar o tamanho de um vetor é crucial em muitos cenários. A função <cod
 
         // Obtendo e imprimindo o tamanho do vetor
         std::cout << "O tamanho do vetor é: " << numeros.size() << std::endl;
+        // Nesse caso o valor da saída será 5
+
 
         return 0;
     }
 
-Dominar esses conceitos sobre vetores e arrays em C++ é fundamental para escrever código eficiente e flexível. Pratique esses conceitos em exercícios e projetos para solidificar sua compreensão.
+Dominar esses conceitos sobre vetores e arrays em C++ é fundamental para escrever código eficiente e flexível. Pratique esses conceitos em exercícios e projetos para solidificar sua compreensão. 
+
+Qualquer dúvida, entre em contato 👍
 
