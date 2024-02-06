@@ -92,5 +92,7 @@ Determinar o tamanho de um vetor é crucial em muitos cenários. A função <cod
 
 Dominar esses conceitos sobre vetores e arrays em C++ é fundamental para escrever código eficiente e flexível. Pratique esses conceitos em exercícios e projetos para solidificar sua compreensão. 
 
+### Para melhorar seu aprendizado, preparei uma pequena [revisão](https://github.com/ThiagoSousa81/Basico-de-CPP/blob/main/Revisao6.md)
+
 Qualquer dúvida, entre em contato 👍
 
