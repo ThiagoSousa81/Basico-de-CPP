@@ -44,3 +44,40 @@ Uma vez que você tenha declarado e inicializado um vetor, é crucial entender c
 
         return 0;
     }
+
+### Percorrendo Vetores com Loops
+
+Para realizar operações em todos os elementos de um vetor, é comum utilizar loops. O loop for é frequentemente empregado para esse propósito. Veja um exemplo de como percorrer e imprimir todos os elementos de um vetor:
+
+    #include <iostream>
+    #include <vector>
+
+    int main() {
+        std::vector<int> numeros = {1, 2, 3, 4, 5};
+
+        // Percorrendo o vetor e imprimindo cada elemento
+        for (int i = 0; i < numeros.size(); ++i) {
+            std::cout << numeros[i] << " ";
+        }
+
+        return 0;
+    }
+
+### Tamanho dos Vetores
+
+Determinar o tamanho de um vetor é crucial em muitos cenários. A função <code>size()</code> fornece o número de elementos presentes no vetor. Veja um exemplo:
+
+    #include <iostream>
+    #include <vector>
+
+    int main() {
+        std::vector<int> numeros = {1, 2, 3, 4, 5};
+
+        // Obtendo e imprimindo o tamanho do vetor
+        std::cout << "O tamanho do vetor é: " << numeros.size() << std::endl;
+
+        return 0;
+    }
+
+Dominar esses conceitos sobre vetores e arrays em C++ é fundamental para escrever código eficiente e flexível. Pratique esses conceitos em exercícios e projetos para solidificar sua compreensão.
+
