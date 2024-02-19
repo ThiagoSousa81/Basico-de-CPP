@@ -5,9 +5,9 @@ Funções podem ser definidas com ou sem parâmetros. Parâmetros são variávei
 
 ### Exemplo de função sem parâmetros:
 
-   void funcaoSemParametros() {
-       // Código da função sem parâmetros
-   }
+    void funcaoSemParametros() {
+        // Código da função sem parâmetros
+    }
 
 ### Exemplo de função com parâmetros:
 
